@@ -3,7 +3,7 @@ Este repositório guarda os exercícios práticos que fiz durante o curso de C# 
 
 O objetivo é entender os conceitos básicos da linguagem.
 
-# 🗂️ Cada um focado em um pilar básico do C#:
+# 🗂️ Pilar básico do C#:
 
 variaveiseconstantes: O básico de como guardar informações.
 
